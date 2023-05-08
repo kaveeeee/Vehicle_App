@@ -50,10 +50,9 @@ A few of the things you can do:
   <img src = "app/src/main/res/drawable-nodpi/screenshot8.jpg">
 </p>
 
-## Feedback
 
-Feel free to send me feedback on [Twitter](https://twitter.com/PKNdegwa)
-or [file an issue](https://github.com/PeterKingori/My-Car-Maintenance/issues/new).
+
+
 
 ## Getting Started
 
@@ -62,15 +61,8 @@ or [file an issue](https://github.com/PeterKingori/My-Car-Maintenance/issues/new
 3. Build the project using Gradle.
 4. Install the app on your device or run it in an emulator.
 
-## License
-
-This project is licensed under the **GNU Affero General Public License**. See the
-full [LICENSE](https://choosealicense.com/licenses/agpl-3.0/) for details.
-
-## Acknowledgements
-
-<p><a href="https://www.flaticon.com/free-icons/tow-truck" title="tow truck icons">Tow truck icon found on Flaticon</a></p>
-<p>Screwdriver icon by <a href="https://freeicons.io/profile/135331">Chanut is Industries</a> on <a href="https://freeicons.io">freeicons.io</a></p>
 
 
-Copyright (c) 2022 **Peter Kingori Ndegwa**
+
+
+
