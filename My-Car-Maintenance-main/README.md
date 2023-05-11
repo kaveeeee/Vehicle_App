@@ -1,4 +1,4 @@
-<h1 align="center"> My Car Maintenance </h1> <br>
+<h1 align="center"> Vehicle Managment</h1> <br>
 <p align="center">
   <img alt="My Car Maintenance logo" title="My Car Maintenance" src="app/src/main/ic_launcher-playstore.png" width="250">
 </p>
